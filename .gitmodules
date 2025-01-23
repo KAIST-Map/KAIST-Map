@@ -1,0 +1,6 @@
+[submodule "Kaist-Map-App"]
+	path = Kaist-Map-App
+	url = https://github.com/KAIST-Map/Kaist-Map-App
+[submodule "Kaist-Map-Backend"]
+	path = Kaist-Map-Backend
+	url = https://github.com/KAIST-Map/Kaist-Map-Backend
