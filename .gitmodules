@@ -4,3 +4,6 @@
 [submodule "Kaist-Map-Backend"]
 	path = Kaist-Map-Backend
 	url = https://github.com/KAIST-Map/Kaist-Map-Backend
+[submodule "Data-Gen"]
+	path = Data-Gen
+	url = git@github.com:KAIST-Map/Data-Gen.git
